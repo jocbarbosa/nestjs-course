@@ -1,4 +1,4 @@
-export default class Product {
+export default class Book {
     id: Number;
     code: string;
     name: string;
